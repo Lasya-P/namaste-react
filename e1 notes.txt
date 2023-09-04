@@ -1,0 +1,4 @@
+CDN
+crossorigin
+react native - mobile phones 
+react dom - browsers
